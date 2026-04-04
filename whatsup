@@ -1,0 +1,21 @@
+#!/bin/bash
+echo "_________________________________"
+echo "What's up, $(whoami)?"
+echo ""
+
+echo "Your current directory is:"
+pwd
+echo ""
+echo "Files here:"
+ls
+echo ""
+
+echo "Date and time:"
+date
+echo ""
+
+echo "User:"
+whoami
+echo "______________________________________"
+
+
